@@ -1,0 +1,8 @@
+body {
+    background-color: azure;
+}
+
+#canvas {
+    background-color: lightgray;
+    border: 2px #000 solid;
+}
